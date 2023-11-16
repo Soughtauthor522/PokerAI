@@ -2,7 +2,7 @@ import random
 import itertools
 from enum import Enum
 
-class ActionRequest(Enum): #HI NIKASH
+class ActionRequest(Enum): #HI IM Hawrizzon
     CHECK=1
     CALL=2
     RAISE=3
